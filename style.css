@@ -1,0 +1,99 @@
+.card {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    border: 5px solid red;
+}
+
+.code {
+    margin-bottom: 20px;
+    color: grey;
+    text-align: right;
+font-weight: 600;
+}
+
+.img-container {
+display: flex;
+justify-content: center;
+margin-bottom: 40px;
+
+}
+
+.percent-container {
+margin-bottom: 20px;
+}
+
+.percent {
+    width: 120px;
+    background-color: red;
+    color: white;
+    margin-right: 5px;
+    padding: 5px;
+     font-weight: 600;
+}
+
+
+.star-container {
+    margin-bottom: 20px;
+}
+
+.star {
+    width: 12px;
+    height: 10px;
+}
+
+.feedback {
+    color: grey;
+    font-weight: 600;
+}
+
+.price-name {
+    color: grey;
+}
+
+.price {
+    color: red;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.cashback {
+    background-color: rgb(235, 235, 157);
+    font-weight: 600;
+    padding: 4px;
+
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: grey;
+     font-weight: 600;
+}
+
+.button-container {
+display: flex;
+justify-content: space-between;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    border-radius: 23px;
+    background-color: green;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.btn {
+
+
+    font-size: 25px;
+    color: grey;
+}
